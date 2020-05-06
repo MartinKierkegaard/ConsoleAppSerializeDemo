@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSerializeDemo", "ConsoleAppSerializeDemo\ConsoleAppSerializeDemo.csproj", "{844FC6E0-20E8-4342-AF90-4EC404C47237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844FC6E0-20E8-4342-AF90-4EC404C47237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844FC6E0-20E8-4342-AF90-4EC404C47237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844FC6E0-20E8-4342-AF90-4EC404C47237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844FC6E0-20E8-4342-AF90-4EC404C47237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34C8448-3176-48B5-BF7E-76C853854A63}
+	EndGlobalSection
+EndGlobal
